@@ -64,3 +64,4 @@ moneyManager.sendMoneyCallback = (data) => {
         }            
     });
 };
+
